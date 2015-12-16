@@ -43,6 +43,7 @@ require 'yaml'
 
 require 'uirusu/vtfile'
 require 'uirusu/vturl'
+require 'uirusu/vtip'
 require 'uirusu/vtcomment'
 require 'uirusu/vtresult'
 require 'uirusu/scanner'
